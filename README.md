@@ -84,8 +84,8 @@ Or install manually:
 
 > Add your own screenshots in the `/screenshots` folder and reference them here:
 
-### 🧭 Main Menu  
-![Main Menu](Screenshots/main_menu.png)
+### 🧭 Retention View  
+![Low vs high resistance state](Screenshots/retention_view.png)
 
 ### 🔋 Pulse Viewer  
 ![Pulse Viewer](Screenshots/pulses_view.png)
