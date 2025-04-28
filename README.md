@@ -25,7 +25,7 @@
 
 ## 🚀 Getting Started
 
-### 🧪 Option 1: Run from Source (Python)
+### 🧪 Run from Source (Python)
 
 #### 1. Install dependencies
 ```bash
@@ -41,16 +41,6 @@ python main.py
 
 ---
 
-### 📦 Option 2: Run the Executable
-If you have the precompiled version:
-
-```bash
-dist/MemristorMetricsGUI.exe
-```
-
-> 📝 No Python installation is needed for this method.
-
----
 
 ## 📂 Project Structure
 
@@ -101,7 +91,9 @@ Or install manually:
 ![Pulse Viewer](screenshots/pulses_view.png)
 
 ### 📉 IV Sweep Analysis  
-![IV Sweeps](screenshots/iv_sweeps.png)
+![IV Sweeps with CDF plots](screenshots/IVSweepsCDF.PNG)
+![IV Sweeps with resistance plots](screenshots/IVSweepsRes.PNG)
+
 
 *(You can include more if you'd like — e.g. retention or volatile views.)*
 
