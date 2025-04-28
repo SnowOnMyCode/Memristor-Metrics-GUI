@@ -51,11 +51,9 @@ python main.py
 | `class_pulses.py`    | GUI module for pulse waveform analysis       |
 | `class_Retention.py` | GUI module for resistance retention tracking |
 | `class_volatile.py`  | GUI module for volatile switching behavior   |
-| `dist/`              | (Optional) Compiled `.exe` via PyInstaller   |
 | `screenshots/`       | App preview images for README                |
 | `requirements.txt`   | List of Python dependencies                  |
 | `README.md`          | You are here 📖                               |
-| `LICENSE`            | MIT License file (open-source friendly)      |
 
 ---
 
@@ -82,7 +80,6 @@ Or install manually:
 
 ## 📷 Screenshots
 
-> Add your own screenshots in the `/screenshots` folder and reference them here:
 
 ### 🧭 Retention View  
 ![Low vs high resistance state](Screenshots/retention_view.PNG)
@@ -95,22 +92,19 @@ Or install manually:
 ![IV Sweeps with resistance plots](Screenshots/IVSweepsRes.PNG)
 
 
-*(You can include more if you'd like — e.g. retention or volatile views.)*
-
 ---
 
 ## 📄 License
 
 This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
 
-See `LICENSE` for full details.
 
 ---
 
 ## 👨‍🔬 Author
 
-Developed by **Andy Braho**  
-Originally created for experimental analysis of cryogenic memristor measurements in an academic research setting.
+Developed by **Lek Ibrahimi**  
+Originally created for experimental analysis of memristor measurements in an academic research setting.
 
 ---
 
@@ -118,9 +112,6 @@ Originally created for experimental analysis of cryogenic memristor measurements
 
 **Q: Can I run this without any data?**  
 You can launch and explore the interface, but the analysis features require actual Excel data from Clarius 4200A-SCS.
-
-**Q: Is this meant for general-purpose signal processing?**  
-No — it's tailored specifically for memristor data from Lakeshore cryogenic setups and the measurement structure used in your lab.
 
 **Q: Can I cite or reuse this in my research?**  
 Yes! Just keep the MIT License and feel free to adapt it to your needs.
