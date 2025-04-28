@@ -85,14 +85,14 @@ Or install manually:
 > Add your own screenshots in the `/screenshots` folder and reference them here:
 
 ### 🧭 Main Menu  
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](Screenshots/main_menu.png)
 
 ### 🔋 Pulse Viewer  
-![Pulse Viewer](screenshots/pulses_view.png)
+![Pulse Viewer](Screenshots/pulses_view.png)
 
 ### 📉 IV Sweep Analysis  
-![IV Sweeps with CDF plots](screenshots/IVSweepsCDF.PNG)
-![IV Sweeps with resistance plots](screenshots/IVSweepsRes.PNG)
+![IV Sweeps with CDF plots](Screenshots/IVSweepsCDF.PNG)
+![IV Sweeps with resistance plots](Screenshots/IVSweepsRes.PNG)
 
 
 *(You can include more if you'd like — e.g. retention or volatile views.)*
