@@ -85,10 +85,10 @@ Or install manually:
 > Add your own screenshots in the `/screenshots` folder and reference them here:
 
 ### 🧭 Retention View  
-![Low vs high resistance state](Screenshots/retention_view.png)
+![Low vs high resistance state](Screenshots/retention_view.PNG)
 
 ### 🔋 Pulse Viewer  
-![Pulse Viewer](Screenshots/pulses_view.png)
+![Pulse Viewer](Screenshots/pulses_view.PNG)
 
 ### 📉 IV Sweep Analysis  
 ![IV Sweeps with CDF plots](Screenshots/IVSweepsCDF.PNG)
